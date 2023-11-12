@@ -18,7 +18,7 @@ and I am a Unity & C# developer.</h1>
 <div align = "center">
 <p>Here are links to my social profiles:</p>
 
-<span><a href=https://www.linkedin.com/in/srggrigorov/><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  </span>
+<span><a href=https://www.linkedin.com/in/srggrigorov/><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'></a>  </span>
 &nbsp;&nbsp;
-<span><a href=https://www.instagram.com/srg_grigorov/><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a></span>
+<span><a href=https://www.instagram.com/srg_grigorov/><img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'></a></span>
 </div>
