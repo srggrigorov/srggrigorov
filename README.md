@@ -1,10 +1,8 @@
 <h1 align="center"> Hi there 👋, my name is <em>Sergei</em>
 <br />
-and I am a game developer.</h1>
+and I am a Unity & C# developer.</h1>
 
-<p>
-<img src="github-header-image.png" alt="Header" width="100%" height="30%">
-</p>
+
 <hr>
 <p>Here, I showcase various test and pet projects. Many of these projects were done within a limited timeframe, so there is room for improvement in each of them. For now, you can check out some of my projects:</p>
 <ul>
