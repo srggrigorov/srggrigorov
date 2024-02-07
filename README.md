@@ -8,6 +8,7 @@ and I am a Unity & C# developer.</h1>
 <ul>
 <li><a href = "https://github.com/srggrigorov/pirate-island">Pirate Island</a></li>
 <li><a href = "https://github.com/srggrigorov/block-puzzle-game">Puzzle Block Game</a></li>
+<li><a href = "https://github.com/srggrigorov/classic-snake">Classic Snake</a></li>
 <li><a href = "https://github.com/srggrigorov/brickworks-test-project">Simple skill tree</a></li>
 <li><a href = "https://github.com/srggrigorov/sunday-test-3d">GTA-like test project</a></li>
 </ul>
