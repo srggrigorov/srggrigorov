@@ -7,8 +7,11 @@ and I am a Unity & C# developer.</h1>
 <p>Here, I showcase various test and pet projects. Many of these projects were done within a limited timeframe, so there is room for improvement in each of them. For now, you can check out some of my projects:</p>
 <ul>
 <li><a href = "https://github.com/srggrigorov/pirate-island">Pirate Island</a></li>
-<li><a href = "https://github.com/srggrigorov/block-puzzle-game">Puzzle Block Game</a></li>
 <li><a href = "https://github.com/srggrigorov/classic-snake">Classic Snake</a></li>
+</ul>
+(Old and bad code, haven't refactored yet)
+<ul>
+<li><a href = "https://github.com/srggrigorov/block-puzzle-game">Puzzle Block Game</a></li>
 <li><a href = "https://github.com/srggrigorov/brickworks-test-project">Simple skill tree</a></li>
 <li><a href = "https://github.com/srggrigorov/sunday-test-3d">GTA-like test project</a></li>
 </ul>
