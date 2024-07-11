@@ -6,6 +6,7 @@ and I am a Unity & C# developer.</h1>
 <hr>
 <p>Here, I showcase various test and pet projects. Many of these projects were done within a limited timeframe, so there is room for improvement in each of them. For now, you can check out some of my projects:</p>
 <ul>
+  <li><a href = "https://github.com/srggrigorov/food-match">Food Match</a></li>
 <li><a href = "https://github.com/srggrigorov/pirate-island">Pirate Island</a></li>
 <li><a href = "https://github.com/srggrigorov/block-puzzle-game">Puzzle Block Game</a></li>
 <li><a href = "https://github.com/srggrigorov/classic-snake">Classic Snake</a></li>
